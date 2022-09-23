@@ -1,6 +1,11 @@
 # My own files to skip
 0_Getting_Started/
 .ipynb_checkpoints/
+MLFoundations_Course1_CaseStudy/3_Clustering_Wikipedia_Articles/data/
+MLFoundations_Course1_CaseStudy/4_Recommending_Songs/data/
+MLFoundations_Course1_CaseStudy/5_Classification_ImageRecognition/data/
+MLFoundations_Course2_Regression/data/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
